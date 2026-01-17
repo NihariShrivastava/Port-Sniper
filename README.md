@@ -105,7 +105,9 @@ YouTube (Unlisted): <Add your YouTube link here>
 ## Author
 
 Nihari Shrivastava
+
 B.Tech, Electronics and Telecommunication Engineering
+
 Aspiring Software Developer
 
 ---
